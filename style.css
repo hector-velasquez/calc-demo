@@ -1,0 +1,20 @@
+body {
+    margin: 5%;
+}
+
+#pantalla {
+    width: 60%;
+    overflow: hidden;
+    font-size: large;
+    text-align: left;
+    background: black;
+    color: yellow;
+    text-align: right;
+}
+
+.btnNum {
+    width: 15%;
+    height: 30px;
+    font-size: 16;
+    font-weight: 400;
+}
